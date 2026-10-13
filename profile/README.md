@@ -9,6 +9,6 @@
 | [eamena](https://github.com/eamena-project/eamena)   |  EAMENA/Arches package to install an Arches/EAMENA-like instance |
 | [EAMENA-MachineLearning-ACD](https://github.com/eamena-project/EAMENA-MachineLearning-ACD)  |  ML Automatic Change Detection (Leicester team) |
 | [eamena-gee](https://github.com/eamena-project/eamena-gee)  |  development repository for GEE, AI/ML, etc. |
-| [EAMENA quick pin] (https://github.com/eamena-project/eamena-quick-pin) | Developed to ease the Heritage recording workflow. |
+| [EAMENA quick pin](https://github.com/eamena-project/eamena-quick-pin) | Developed to ease the Heritage recording workflow. |
 | ...  |  ... |
 | [arches](https://github.com/eamena-project/arches)  |  fork of https://github.com/archesproject/arches for PR |
